@@ -4,6 +4,9 @@
 
 Este projeto tem como objetivo desenvolver um sistema para gerenciar a ocupação dos quartos de um hotel, desde a reserva até a limpeza. O sistema foca em garantir a eficiência das operações e a satisfação dos hóspedes.
 
+## Equipe
+!["Equipe do Projeto"](Team.png)
+
 ## Tecnologias Utilizadas
 
 * **Linguagem de programação:** [Insira a linguagem a ser definida, ex: Python, Java, C#]
