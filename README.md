@@ -47,7 +47,7 @@ Este projeto tem como objetivo desenvolver um sistema para gerenciar a ocupaçã
 
 ## Autores
 
-* Listar autores do projeto
+* Listar autores do projeto, autores estão sendo candidatados.
 
 ## Licença
 
