@@ -1,6 +1,6 @@
 # Gestão de Quartos - Sistema Hoteleiro
 
-#Precisamos definir qual o nome será do sistema, em conjunto com todas as squads.
+#Precisamos definir qual o nome será do sistema, em conjunto com todas as squads presentes.
 
 ## Descrição
 
