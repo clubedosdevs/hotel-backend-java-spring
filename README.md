@@ -1,5 +1,7 @@
 # Gestão de Quartos - Sistema Hoteleiro
 
+#Precisamos definir qual o nome será do sistema.
+
 ## Descrição
 
 Este projeto tem como objetivo desenvolver um sistema para gerenciar a ocupação dos quartos de um hotel, desde a reserva até a limpeza. O sistema foca em garantir a eficiência das operações e a satisfação dos hóspedes.
